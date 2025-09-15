@@ -1,0 +1,240 @@
+.main{
+    display: flex;
+    justify-content: center;
+    padding: 40px 5%;
+    height: 100vh;
+    background-color: rgba(235, 216, 177, 0.541);
+}
+.filed{
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+    padding-top: 10px;
+}
+.filed  input{
+    width: 400px;
+    height: 40px;
+    border-radius: 15px;
+    outline: none;
+    border: 1px solid gray;
+    padding-left: 10px;
+    font-size: 14px;
+}
+.filed button{
+    height: 40px;
+    width: 100px;
+    border-radius: 19px;
+    padding: 5px 3px;
+    border: 1px solid gray;
+    background-color: rgb(202, 77, 28);
+    color: white;
+    font-size: 14px;
+    font-weight: 800;
+    cursor: pointer;
+}
+.inner{
+    background-color: gray;
+    height: 570px;
+    width: 100%;
+    border-radius: 20px;
+    overflow: hidden;
+    overflow-y: scroll;
+    scrollbar-width: none;
+}
+
+.nav h2{
+    text-align: center;
+    background-color: red;
+    height: 80px;
+    padding-top: 20px;
+    font-weight: 800;
+    color: white;
+    font-size: 35px;
+}
+.center{
+    display: flex;
+    justify-content: space-between;
+    /* background-color: blue; */
+    height: 40px;
+    padding: 1px 0.9%;
+}  
+.t1{
+    /* background-color:yellow; */
+    width: 100%;
+    height: 100%;
+    padding-top: 13px;
+
+}
+.t1 section{
+    display: flex;
+    justify-content: space-around;
+}
+.t1 section span{
+    display: flex;
+    /* background-color: red; */
+    width: 150px;
+    justify-content: space-between;
+}
+.btn1,.btn2{
+    width: 90px;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid gray;
+    background-color: Green;
+    color: white;
+    font-size: 16px;
+    font-weight: 800;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.btn2{
+    background-color: red;
+}
+/* .t2 section span{
+    display: flex;
+    width: 150px;
+    justify-content: space-between;
+} */
+.t1 P{
+    font-size: 15px;
+    /* background-color: red; */
+    width: 400px;
+    padding-left: 16px;
+    border: 1px solid rgb(59, 56, 56);
+    border-radius: 13px;
+}
+/* .t2 section{
+    display: flex;
+    justify-content: space-around;
+}    
+.t2{
+    width: 49%;
+    padding-top: 15px;   
+}
+.t2 p{
+     font-size: 15px;
+    width: 400px;
+    padding-left: 16px;
+    border: 1px solid rgb(59, 56, 56);
+    border-radius: 13px; 
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .body{
+    padding-top:7%;
+    display: flex;
+    justify-content: center;
+}
+.inner{
+    background-color:gray;
+    height: 520px;
+    width: 500px;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 7px;
+    overflow: hidden;
+    overflow-y: scroll;
+    scrollbar-width: none;
+}
+h2{
+    font-size: 20px;
+    color: #181717;
+    font-weight: 800;
+    padding-left: 40%;
+}
+h3{
+    text-align: center;
+}
+.search{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding: 5% 7%;
+    
+}
+.search input{
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    padding-left: 15px;
+    font-size: 15px;
+    border: 1px solid gray;
+    outline: none;
+}
+.search button{
+    height: 30px;
+    width: fit-content;
+    padding: 5px 2%;
+    background-color: blueviolet;
+    color: white;
+    font-size: 12px;
+    font-weight:700;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid gray;
+    cursor: pointer;
+}
+.main{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+}
+.main p{
+    width: 300px;
+    border: 1px solid rgba(253, 253, 253, 0.171);
+    padding-left: 10px;
+    border-radius: 6px;
+    margin-left: 10px;
+}
+.main div{
+    display: flex;
+    column-gap: 10px;
+    padding-left: 40px;
+}
+.main .done ,.pop{
+    width: 50px;
+    border-radius: 9px;
+    outline: none;
+    border: 1px solid gray;
+    cursor: pointer;
+}
+.done{
+    background-color: green;
+    color: white;
+    font-weight: 700;
+}
+.pop{
+    background-color:red;
+    color: white;
+    font-weight: 700;
+} */ 
